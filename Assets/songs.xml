@@ -1,0 +1,543 @@
+<Case>
+  <CaseName>Animal</CaseName>
+  <Free>True</Free>
+  <NormalCurrencyOpenCost>0</NormalCurrencyOpenCost>
+  <Skins>
+    <skin><SkinName>#thatPOWER</SkinName><artist>will.i.am ft. Justin Bieber</artist><year>2013</year><mode>Dance Crew</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>24K Magic</SkinName><artist>Bruno Mars</artist><year>2016</year><mode>Duet</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>99 Luftballons</SkinName><artist>Nena
+(Rutschen Planeten)</artist><year>1983</year><mode>Duet</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Acceptable in the 80s</SkinName><artist>Calvin Harris</artist><year>2007</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Adeyyo</SkinName><artist>Ece Seçkin</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Ain’t My Fault</SkinName><artist>Zara Larson</artist><year>2016</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Airplanes </SkinName><artist>B.o.B. ft. Hayley Williams of Paramore</artist><year>2010</year><mode>Solo</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>All About That Bass</SkinName><artist>Meghan Trainor</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>All About Us</SkinName><artist>Jordan Fisher</artist><year>2016</year><mode>Trio</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>All You Gotta Do (Is Just Dance)</SkinName><artist>The Just Dance Band</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Am I Wrong</SkinName><artist>Nico and Vinz</artist><year>2013</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Amazing Girl</SkinName><artist>The Girly Team</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018
+(Kids Mode)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>American Girl</SkinName><artist>Bonnie McKee</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Animals</SkinName><artist>Martin Garrix</artist><year>2013</year><mode>Duet</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Another One Bites the Dust</SkinName><artist>Queen</artist><year>1980</year><mode>Dance Crew</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Apache (Jump On It) </SkinName><artist>The Sugarhill Gang</artist><year>1981</year><mode>Solo</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Applause</SkinName><artist>Lady Gaga</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Aquarius/Let the Sunshine In </SkinName><artist>The 5th Dimension
+(The Sunlight Shakers)</artist><year>1969</year><mode>Duet</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Aserejé (The Ketchup Song)</SkinName><artist>Las Ketchup</artist><year>2002</year><mode>Duet</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Automaton</SkinName><artist>Jamiraqui</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Baby Girl</SkinName><artist>Reggaeton</artist><year>2009</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Baby One More Time</SkinName><artist>Britney Spears
+(The Girly Team)</artist><year>1998</year><mode>Dance Crew</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Bad Liar</SkinName><artist>Selena Gomez</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Bad Romance</SkinName><artist>Lady Gaga</artist><year>2009</year><mode>Trio</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Bailar</SkinName><artist>Deorro ft. Elvis Crespo</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Balkan Blast Remix</SkinName><artist>Ari Pulkkinen (Angry Birds)</artist><year>2015</year><mode>Dance Crew (Angled)</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Bang</SkinName><artist>Anitta</artist><year>2015</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Bang Bang</SkinName><artist>Jessie J, Ariana Grande and Nicki Minaj</artist><year>2014</year><mode>Dance Crew</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Bang Bang Bang</SkinName><artist>BIGBANG</artist><year>2015</year><mode>Trio</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Barbie Girl</SkinName><artist>Aqua
+(Countdown Dee’s Hit Explosion)</artist><year>1997</year><mode>Duet</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Beauty And A Beat</SkinName><artist>Justin Bieber ft. Nicki Minaj</artist><year>2012</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Beep Beep I’m A Sheep</SkinName><artist>LilDeuceDeuce ft. BlackGryph0n and TomSka</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Better When I'm Dancin'</SkinName><artist>Meghan Trainor</artist><year>2015</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Beware of the Boys (Mundian To Bach Ke)</SkinName><artist>Panjabi MC</artist><year>1998</year><mode>Dance Crew</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Big Girl (You Are Beautiful)</SkinName><artist>MIKA</artist><year>2007</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Birthday</SkinName><artist>Katy Perry</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Blame</SkinName><artist>Calvin Harris
+ft. John Newman</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Blow Your Mind (Mwah)</SkinName><artist>Dua Lipa</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Blue (Da Ba Dee)</SkinName><artist>Eiffel 65
+(Hit The Electro Beat)</artist><year>1999</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Blurred Lines</SkinName><artist>Robin Thicke feat. Pharrell Williams</artist><year>2013</year><mode>Duet</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Bonbon</SkinName><artist>Era Istrefi</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Boogie Wonderland</SkinName><artist>Earth, Wind and Fire ft. The Emotions
+(Groove Century)</artist><year>1979</year><mode>Dance Crew</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Boom Boom</SkinName><artist>Iggy Azalea ft. Zedd</artist><year>2017</year><mode>Trio</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Boom Clap</SkinName><artist>Charli XCX</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Boom</SkinName><artist>Reggaeton Storm</artist><year>2005</year><mode>Solo</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Born This Way</SkinName><artist>Lady Gaga</artist><year>2011</year><mode>Trio</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Boys (Summertime Love)</SkinName><artist>Sabrina
+(The Lemon Cubes)</artist><year>1987</year><mode>Trio</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Break Free</SkinName><artist>Ariana Grande ft. Zedd</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Bubble Pop!</SkinName><artist>HyunA</artist><year>2011</year><mode>Trio</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Built For This</SkinName><artist>Becky G</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>C'Mon</SkinName><artist>Ke$ha</artist><year>2012</year><mode>Duet</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Cake By The Ocean</SkinName><artist>DNCE</artist><year>2015</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>California Gurls</SkinName><artist>Katy Perry</artist><year>2010</year><mode>Solo</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Calypso</SkinName><artist>Luis Fonsi and Stefflon Don</artist><year>2018</year><mode>Solo</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Can't Get Enough</SkinName><artist>Becky G ft. Pitbull</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Can't Take My Eyes Off You</SkinName><artist>Boys Town Gang</artist><year>1982</year><mode>Duet</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Can’t Feel My Face</SkinName><artist>The Weeknd</artist><year>2015</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Carmen (Overture)</SkinName><artist>Georges Bizet
+(The Just Dance Orchestra)</artist><year>1875</year><mode>Duet</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Carnaval Boom</SkinName><artist>Latino Sunset</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Cercavo Amore</SkinName><artist>Emma</artist><year>2012</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Chantaje</SkinName><artist>Shakira ft. Maluma</artist><year>2017</year><mode>Duet</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Cheap Thrills</SkinName><artist>Sia ft. Sean Paul</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Cheerleader (Felix Jaehn Remix)</SkinName><artist>OMI</artist><year>2014</year><mode>Dance Crew</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Chiwawa</SkinName><artist>Wanko Ni Mero Mero</artist><year>2015</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Circus</SkinName><artist>Britney Spears</artist><year>2008</year><mode>Dance Crew</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Cola Song</SkinName><artist>INNA ft. J Balvin</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Cool for the Summer</SkinName><artist>Demi Lovato</artist><year>2015</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Copacabana</SkinName><artist>Barry Manilow
+(Frankie Bostello)</artist><year>1978</year><mode>Dance Crew</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Cosmic Girl</SkinName><artist>Jamiroquai</artist><year>1996</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Cosmic Party</SkinName><artist>Equinox Stars</artist><year>2018</year><mode>Solo</mode><game>Just Dance 2019
+(Kids Mode)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Cotton Eye Joe</SkinName><artist>Rednex</artist><year>1994</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Crazy Christmas</SkinName><artist>Santa Clones</artist><year>2010</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Crazy Little Thing Called Love </SkinName><artist>Queen</artist><year>1979</year><mode>Duet</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Criminal</SkinName><artist>Natti Natasha and Ozuna</artist><year>2017</year><mode>Duet</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Crucified</SkinName><artist>Army of Lovers</artist><year>1991</year><mode>Dance Crew</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Crying Blood</SkinName><artist>V.V Brown</artist><year>2008</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Daddy Cool</SkinName><artist>Boney M.
+(Groove Century)</artist><year>1976</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Dagomba</SkinName><artist>Sorcerer</artist><year>2003</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Dame Tu Cosita</SkinName><artist>El Chombo Ft. Cutty Ranks</artist><year>2018</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Dancing Queen</SkinName><artist>ABBA</artist><year>1976</year><mode>Trio</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Danse (Pop Version)</SkinName><artist>Tal</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Despacito</SkinName><artist>Luis Fonsi ft. Daddy Yankee</artist><year>2017</year><mode>Dance Crew</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Dharma</SkinName><artist>Headhunterz and KSHMR</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Die Young</SkinName><artist>Ke$ha</artist><year>2012</year><mode>Duet</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Diggin' in the Dirt</SkinName><artist>Stefanie Heinzmann</artist><year>2012</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Diggy</SkinName><artist>Spencer Ludwig</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Domino</SkinName><artist>Jessie J</artist><year>2012</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Don't You Worry Child</SkinName><artist>Swedish House Mafia ft. John Martin</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Done for Me</SkinName><artist>Charlie Puth ft. Kehlani</artist><year>2018</year><mode>Duet</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Don’t Let Me Down</SkinName><artist>The Chainsmokers ft. Daya</artist><year>2016</year><mode>Duet</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Don’t Stop Me Now</SkinName><artist>Queen</artist><year>1978</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Don’t Wanna Know</SkinName><artist>Maroon 5</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Don’t Worry</SkinName><artist>Madcon ft. Ray Dalton</artist><year>2015</year><mode>Duet</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Don’t Worry Be Happy</SkinName><artist>Bobby McFerrin
+(The Bench Men)</artist><year>1988</year><mode>Trio</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Down By The Riverside</SkinName><artist>The Reverend Horatio Duncan and Amos Sweets</artist><year>1927</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Dragostea Din Tei</SkinName><artist>O-Zone</artist><year>2003</year><mode>Trio</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Drop the Mambo</SkinName><artist>Diva Carmina</artist><year>2015</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Dynamite</SkinName><artist>Taio Cruz</artist><year>2010</year><mode>Dance Crew</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>E.T.</SkinName><artist>Katy Perry</artist><year>2010</year><mode>Solo</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>El Tiki</SkinName><artist>Maluma</artist><year>2015</year><mode>Duet</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Epic Sirtaki</SkinName><artist>Cast of Zorba the Greek
+(The Bouzouki’s)</artist><year>2014</year><mode>Trio</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Error</SkinName><artist>Natalia Nykiel</artist><year>2016</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Eye of the Tiger</SkinName><artist>Survivor</artist><year>1982</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Fame</SkinName><artist>Irene Cara
+(The Girly Team)</artist><year>1980</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Familiar</SkinName><artist>Liam Payne ft. J.Balvin</artist><year>2018</year><mode>Solo</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Fancy</SkinName><artist>Iggy Azalea ft.
+Charli XCX</artist><year>2014</year><mode>Trio</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Fearless Pirate</SkinName><artist>Marine Band</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2018
+(Kids Mode)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Feel It Still</SkinName><artist>Portugal. The Man</artist><year>2017</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Feel So Right</SkinName><artist>Imposs ft. Konshens</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Fight Club</SkinName><artist>Lights</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Finesse (Remix)</SkinName><artist>Bruno Mars ft. Cardi B</artist><year>2018</year><mode>Dance Crew</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Fire On The Floor</SkinName><artist>Michelle Delamor</artist><year>2018</year><mode>Solo</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Firework</SkinName><artist>Katy Perry</artist><year>2010</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Flashdance ... What a Feeling</SkinName><artist>Irene Cara (The Girly Team)</artist><year>1983</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Footloose</SkinName><artist>Kenny Loggin
+(Top Culture)</artist><year>1984</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Fun</SkinName><artist>Pitbull ft. Chris Brown</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Funky Robot</SkinName><artist>Dancing Bros.</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018
+(Kids Mode)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Funkytown</SkinName><artist>Lipps Inc.
+(Sweat Invaders)</artist><year>1980</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Futebol Crazy</SkinName><artist>The World Cup Girls</artist><year>2009</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Gangnam Style (강남스타일)</SkinName><artist>PSY</artist><year>2012</year><mode>Duet</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Gentleman</SkinName><artist>PSY</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Get Ugly</SkinName><artist>Jason Derulo</artist><year>2015</year><mode>Trio</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Ghost In The Keys</SkinName><artist>Halloween Thrills</artist><year>2016</year><mode>Dance Crew</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Ghostbusters</SkinName><artist>Ray Parker, Jr.</artist><year>1984</year><mode>Dance Crew</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Gibberish</SkinName><artist>MAX</artist><year>2015</year><mode>Duet</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Gimme! Gimme! Gimme! (A Man After Midnight)</SkinName><artist>ABBA</artist><year>1979</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Girlfriend</SkinName><artist>Avril Lavigne</artist><year>2007</year><mode>Duet</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Girls Just Want to Have Fun</SkinName><artist>Cyndi Lauper</artist><year>1983</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Good Feeling</SkinName><artist>Flo Rida</artist><year>2011</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Got That</SkinName><artist>Gigi Rowe</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Groove</SkinName><artist>Jack and Jack</artist><year>2014</year><mode>Duet</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hala Bel Khamis</SkinName><artist>Maan Barghouth</artist><year>2018</year><mode>Solo</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>HandClap</SkinName><artist>Fitz and The Tantrums</artist><year>2016</year><mode>Trio</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hangover (BaBaBa)</SkinName><artist>Buraka Som Sistema</artist><year>2011</year><mode>Duet</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Happy</SkinName><artist>Pharrell Williams</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Happy Farm</SkinName><artist>Groove Century</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2018
+(Kids Mode)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Havana</SkinName><artist>Camila Cabello</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Heart of Glass</SkinName><artist>Blondie</artist><year>1979</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Heartbeat Song</SkinName><artist>Kelly Clarkson</artist><year>2015</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Heavy Cross</SkinName><artist>Gossip</artist><year>2009</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hey Mama</SkinName><artist>David Guetta ft. Nicki Minaj, Bebe Rexha, and Afrojack</artist><year>2014</year><mode>Trio</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hey Ya </SkinName><artist>Outkast</artist><year>2003</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hips Don’t Lie</SkinName><artist>Shakira ft. Wyclef Jean</artist><year>2005</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hit 'Em Up Style (Oops!)</SkinName><artist>Blu Cantrell</artist><year>2001</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hit The Lights</SkinName><artist>Selena Gomez and the Scene</artist><year>2012</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hit The Road Jack</SkinName><artist>Ray Charles
+(Charles Percy)</artist><year>1961</year><mode>Duet</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hold My Hand</SkinName><artist>Jess Glynne</artist><year>2015</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Holding Out for a Hero</SkinName><artist>Bonnie Tyler</artist><year>1984</year><mode>Solo</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Holiday</SkinName><artist>Madonna
+(The Hit Crew)</artist><year>1982</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hot n Cold</SkinName><artist>Katy Perry</artist><year>2008</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hot Stuff</SkinName><artist>Donna Summer</artist><year>1980</year><mode>Duet</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>How Deep Is Your Love</SkinName><artist>Calvin Harris and Disciples</artist><year>2015</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>How Far I’ll Go</SkinName><artist>Auli’i Cravalho</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hungarian Dance No. 5</SkinName><artist>Johannes Brahms</artist><year>1880</year><mode>Duet</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Feel Love</SkinName><artist>Donna Summer</artist><year>1977</year><mode>Solo</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Get Around</SkinName><artist>The Beach Boys</artist><year>1966</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Gotta Feeling</SkinName><artist>The Black Eyed Peas</artist><year>2009</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Kissed a Girl</SkinName><artist>Katy Perry</artist><year>2008</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Like It</SkinName><artist>The Blackout Allstars</artist><year>1994</year><mode>Duet</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Love Rock ‘N’ Roll</SkinName><artist>Joan Jett and The Blackhearts
+(Fast Forward Highway)</artist><year>1981</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Need Your Love</SkinName><artist>Calvin Harris feat. Ellie Goulding</artist><year>2012</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Want You Back</SkinName><artist>The Jackson 5</artist><year>1971</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Was Made For Lovin' You</SkinName><artist>Kiss</artist><year>1979</year><mode>Dance Crew</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Will Survive</SkinName><artist>Gloria Gaynor</artist><year>1978</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I'm Still Standing</SkinName><artist>Elton John (Top Culture)</artist><year>1983</year><mode>Solo</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Idealistic </SkinName><artist>Digitalism</artist><year>2007</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Ievan Polkka</SkinName><artist>Hatsune Miku</artist><year>2007</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Imya 505 (Имя 505)</SkinName><artist>Vremya i Steklo (Время и Стекло)</artist><year>2015</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>In the Hall of the Pixel King</SkinName><artist>Dancing Bros</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>India Waale</SkinName><artist>From the movie Happy New Year</artist><year>2014</year><mode>Duet</mode><game>Exclusive Track</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Instruction</SkinName><artist>Jax Jones ft. Demi Lovato and Stefflon Don</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Into You</SkinName><artist>Ariana Grande</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Irish Meadow Dance</SkinName><artist>O'Callaghan's Orchestra</artist><year>2015</year><mode>Dance Crew</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Irish Meadow Dance</SkinName><artist>O’Callaghan’s Orchestra</artist><year>2015</year><mode>Duet</mode><game>Just Dance 2019
+(Kids Mode)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Isidora </SkinName><artist>Bog Bog Orkestar</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Istanbul </SkinName><artist>They Might Be Giants</artist><year>1990</year><mode>Dance Crew</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>It's You</SkinName><artist>Duck Sauce</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini</SkinName><artist>Brian Hyland (The Sunlight Shakers)</artist><year>1950</year><mode>Duet</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>It’s Raining Men</SkinName><artist>The Weather Girls</artist><year>1983</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I’m An Albatraoz</SkinName><artist>AronChupa</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Jai Ho! (You Are My Destiny)</SkinName><artist>A.R. Rahman featuring the Pussycat Dolls and Nicole Scherzinger</artist><year>2009</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Jailhouse Rock</SkinName><artist>Elvis Presley</artist><year>1957</year><mode>Dance Crew</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Jambo Mambo</SkinName><artist>Olé Orquestra</artist><year>1997</year><mode>Duet</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Je sais pas danser</SkinName><artist>Natoo</artist><year>2016</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Jingle Bells</SkinName><artist>Santa Clones</artist><year>1857</year><mode>Duet</mode><game>Just Dance 2019
+(Kids Mode)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>John Wayne</SkinName><artist>Lady Gaga</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Juju On That Beat</SkinName><artist>Zay Hilfigerrr and Zayion McCall</artist><year>2016</year><mode>Duet</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Jump (For My Love) </SkinName><artist>The Pointer Sisters
+(Girls Aloud)</artist><year>2003</year><mode>Duet</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Junto A Ti</SkinName><artist>Martina Stoessel and Lodovica Comello (Disney’s Violetta)</artist><year>2012</year><mode>Trio</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Just A Gigolo</SkinName><artist>Louis Prima</artist><year>1956</year><mode>Duet</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Just Dance</SkinName><artist>Lady Gaga
+feat. Colby O'Donis</artist><year>2008</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>J’suis pas jalouse</SkinName><artist>Andy Raconte</artist><year>2017</year><mode>Duet</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Kaboom Pow</SkinName><artist>Nikki Yanofsky</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Katti Kalandal</SkinName><artist>Bollywood</artist><year>2000</year><mode>Duet</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Keep on Moving</SkinName><artist>Michelle Delamor</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Kissing Strangers</SkinName><artist>DNCE ft. Nicki Minaj</artist><year>2017</year><mode>Duet</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Kool Kontact</SkinName><artist>Glorious Black Belts</artist><year>2015</year><mode>Duet</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Kung Fu Fighting </SkinName><artist>Carl Douglass</artist><year>1974</year><mode>Duet</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Kurio ko uddah le jana </SkinName><artist>Bollywood Rainbow</artist><year>1979</year><mode>Duet</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>La Bicicleta</SkinName><artist>Carlos Vives and Shakira</artist><year>2016</year><mode>Duet</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Land Of 1000 Dances</SkinName><artist>Wilson Pickett</artist><year>1966</year><mode>Solo</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Last Christmas</SkinName><artist>Wham!
+(Santa Clones)</artist><year>1986</year><mode>Duet</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Le Freak</SkinName><artist>Chic</artist><year>1978</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Lean On</SkinName><artist>Major Lazer and DJ Snake ft. MØ</artist><year>2015</year><mode>Dance Crew</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Leg Song</SkinName><artist>LULU</artist><year>2016</year><mode>Solo</mode><game>舞力全开2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Leila</SkinName><artist>Cheb Salama</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Let It Go</SkinName><artist>Idina Menzel (Disney's Frozen)</artist><year>2013</year><mode>Duet</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Let Me Love You</SkinName><artist>DJ Snake ft. Justin Bieber</artist><year>2016</year><mode>Duet</mode><game>Just Dance 2017 (Ubisoft Club)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Let’s Groove</SkinName><artist>Earth, Wind and Fire (Equinox Stars)</artist><year>1981</year><mode>Trio</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Lights</SkinName><artist>Ellie Goulding</artist><year>2011</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Like I Would</SkinName><artist>ZAYN</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Little Swing</SkinName><artist>AronChupa ft. Little Sis Nora</artist><year>2016</year><mode>Duet</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Lollipop </SkinName><artist>MIKA</artist><year>2007</year><mode>Solo</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Love Boat</SkinName><artist>Jack Jones
+(Frankie Bostello)</artist><year>1979</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Love Is All</SkinName><artist>Roger Glover and The Butterfly Ball
+(The Sunlight Shakers)</artist><year>1974</year><mode>Duet</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Love Ward</SkinName><artist>Hatsune Miku</artist><year>2009</year><mode>Trio</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Love You Like A Love Song</SkinName><artist>Selena Gomez and The Scene</artist><year>2011</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Lush Life</SkinName><artist>Zara Larsson</artist><year>2015</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Macarena</SkinName><artist>Los Del Rio
+(The Girly Team)</artist><year>1995</year><mode>Dance Crew</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Magic Halloween</SkinName><artist>Halloween Thrills</artist><year>2017</year><mode>Duet</mode><game>Just Dance 2018
+(Kids Mode)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Make It Jingle</SkinName><artist>Big Freedia</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Make Me Feel</SkinName><artist>Janelle Monáe</artist><year>2018</year><mode>Solo</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Mamasita</SkinName><artist>Latino Sunset</artist><year>2001</year><mode>Duet</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Mambo No. 5 (A Little Bit of Monika)</SkinName><artist>Lou Bega
+(The Lemon Cubes)</artist><year>1999</year><mode>Duet</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Maneater</SkinName><artist>Nelly Furtado</artist><year>2006</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Maps</SkinName><artist>Maroon 5</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Mashed Potato Time</SkinName><artist>Dee Dee Sharp</artist><year>1962</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Me Too</SkinName><artist>Meghan Trainor</artist><year>2016</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Medicina</SkinName><artist>Anitta</artist><year>2018</year><mode>Dance Crew</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Mi Gente</SkinName><artist>J Balvin and Willy William</artist><year>2017</year><mode>Trio</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Miss Understood</SkinName><artist>Sammie</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Monster Mash</SkinName><artist>Boris Pickett and The Crypt-Kickers
+(The Frighteners)</artist><year>1962</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Monsters of Jazz</SkinName><artist>Glove Century</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2019
+(Kids Mode)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Moskau</SkinName><artist>Dschinghis Khan (Dancing Bros.)</artist><year>1979</year><mode>Duet</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Move Your Feet </SkinName><artist>Junior Senior</artist><year>2003</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Movement is Happiness (Find Your Thing)</SkinName><artist>Avishay Goren and Yossi Cohen</artist><year>2014</year><mode>Solo</mode><game>Exclusive Track</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Moves Like Jagger</SkinName><artist>Maroon 5 ft. Christina Aguilera</artist><year>2011</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Mr. Saxobeat</SkinName><artist>Alexandra Stan</artist><year>2011</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Mugsy Baloney</SkinName><artist>Charleston</artist><year>1924</year><mode>Duet</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>My Main Girl</SkinName><artist>MainStreet</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Naughty Girl</SkinName><artist>Beyoncé</artist><year>2003</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Never Can Say Goodbye</SkinName><artist>Gloria Gaynor</artist><year>1974</year><mode>Solo</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>New World</SkinName><artist>Krewella and Yellow Claw ft. Vava</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Nine In The Afternoon</SkinName><artist>Panic! At the Disco</artist><year>2008</year><mode>Duet</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Nitro Bot (ニトロボット)</SkinName><artist>Sentai Express (戦隊エクスプレス)</artist><year>2013</year><mode>Duet</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>No Control</SkinName><artist>One Direction</artist><year>2014</year><mode>Dance Crew</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>No Lie</SkinName><artist>Sean Paul ft. Dua Lipa</artist><year>2017</year><mode>Duet</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>No Limit</SkinName><artist>2 Unlimited</artist><year>1993</year><mode>Duet</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Oath</SkinName><artist>Cher Lloyd
+ft. Becky G</artist><year>2012</year><mode>Duet</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Obsesión</SkinName><artist>Aventura</artist><year>2002</year><mode>Duet</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Oh No!</SkinName><artist>Marina and the Diamonds</artist><year>2010</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Oishii Oishii</SkinName><artist>Wanko Ni Mero Mero</artist><year>2016</year><mode>Duet</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>On Ne Porte Pas De Sous-Vêtements</SkinName><artist>McFly and Carlito</artist><year>2018</year><mode>Duet</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Ona tańczy dla mnie</SkinName><artist>Weekend</artist><year>2012</year><mode>Duet</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>One Kiss</SkinName><artist>Calvin Harris, Dua Lipa</artist><year>2018</year><mode>Solo</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>One Way Or Another (Teenage Kicks)</SkinName><artist>One Direction</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Oops!...I Did It Again</SkinName><artist>Britney Spears
+(The Girly Team)</artist><year>2000</year><mode>Dance Crew</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Pac-Man</SkinName><artist>Toshio Kai (Dancing Bros.)</artist><year>1980</year><mode>Dance Crew</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Part Of Me</SkinName><artist>Katy Perry</artist><year>2012</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Party Rock Anthem</SkinName><artist>LMFAO ft. Lauren Bennett and GoonRock</artist><year>2011</year><mode>Solo</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Pixie Land</SkinName><artist>The Sunlight Shakers</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018
+(Kids Mode)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>PoPiPo</SkinName><artist>Hatsune Miku</artist><year>2008</year><mode>Trio</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Pound The Alarm</SkinName><artist>Nicki Minaj</artist><year>2012</year><mode>Dance Crew</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Primadonna</SkinName><artist>Marina and the Diamonds</artist><year>2012</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Prince Ali</SkinName><artist>Disney's Aladdin</artist><year>1992</year><mode>Dance Crew</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Professor Pumplestickle</SkinName><artist>Nick Phoenix and Thomas J. Bergersen</artist><year>2006</year><mode>Duet</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Promiscuous</SkinName><artist>Nelly Furtado ft. Timbaland</artist><year>2006</year><mode>Duet</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Qia La Yong Yuan OK - Future Underworld Mix</SkinName><artist>Alan Tam</artist><year>1990</year><mode>Solo</mode><game>舞力全开2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Rabiosa</SkinName><artist>Shakira ft. El Cata</artist><year>2010</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>RADICAL</SkinName><artist>Dyro and Dannic</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Rasputin</SkinName><artist>Boney M.</artist><year>1978</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Risky Business</SkinName><artist>Jorge Blanco</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Roar</SkinName><artist>Katy Perry</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Rock n Roll</SkinName><artist>Avril Lavigne</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Rock n' Roll (Will Take You to the Mountain)</SkinName><artist>Skrillex</artist><year>2010</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Rockabye</SkinName><artist>Clean Bandit ft. Sean Paul and Anne-Marie</artist><year>2016</year><mode>Duet</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Rockafeller Skank</SkinName><artist>Fatboy Slim</artist><year>1998</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Run the Night</SkinName><artist>Gigi Rowe</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Safe And Sound</SkinName><artist>Capital Cities</artist><year>2011</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Sax</SkinName><artist>Fleur East</artist><year>2015</year><mode>Trio</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Sayonara</SkinName><artist>Wanko Ni Mero Mero</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>September</SkinName><artist>Earth, Wind and Fire (Equinox Stars)</artist><year>1978</year><mode>Trio</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Sexy And I Know It </SkinName><artist>LMFAO</artist><year>2011</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Shaky Shaky</SkinName><artist>Daddy Yankee</artist><year>2015</year><mode>Solo</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Shape of You</SkinName><artist>Ed Sheeran</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>She’s Got Me Dancing</SkinName><artist>Tommy Sparks</artist><year>2009</year><mode>Solo</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Shut Up and Dance</SkinName><artist>Walk the Moon</artist><year>2014</year><mode>Duet</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Side to Side</SkinName><artist>Ariana Grande ft. Nicki Minaj</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Single Ladies (Put a Ring on It)</SkinName><artist>Beyoncé</artist><year>2008</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Slumber Party</SkinName><artist>Britney Spears ft. Tinashe</artist><year>2016</year><mode>Dance Crew</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Smile (Улыбайся)</SkinName><artist>IOWA</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>So Glamorous</SkinName><artist>The Girly Team</artist><year>2012</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Somethin’ Stupid</SkinName><artist>Robbie Williams and Nicole Kidman</artist><year>2001</year><mode>Duet</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Sorry</SkinName><artist>Justin Bieber</artist><year>2015</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Soul Searchin’</SkinName><artist>Groove Century</artist><year>1999</year><mode>Solo</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Spectronizer</SkinName><artist>Sentai Express</artist><year>2009</year><mode>Dance Crew</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Stadium Flow</SkinName><artist>Imposs</artist><year>2015</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Starships</SkinName><artist>Nicki Minaj</artist><year>2012</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Step by Step</SkinName><artist>New Kids on the Block</artist><year>1990</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Stuck On A Feeling</SkinName><artist>Prince Royce</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Sugar Dance</SkinName><artist>The Just Dance Band</artist><year>2017</year><mode>Solo</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Summer</SkinName><artist>Calvin Harris</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Sun</SkinName><artist>DEMO</artist><year>1999</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Super Bass</SkinName><artist>Nicki Minaj</artist><year>2011</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Superstition</SkinName><artist>Stevie Wonder</artist><year>1972</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Sway (Quién Será)</SkinName><artist>Michael Bublé
+(Marine Band)</artist><year>2003</year><mode>Duet</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Sweet Little Unforgettable Thing</SkinName><artist>Bea Miller</artist><year>2018</year><mode>Solo</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Swish Swish</SkinName><artist>Katy Perry ft. Nicki Minaj</artist><year>2017</year><mode>Dance Crew</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Take Me Out</SkinName><artist>Franz Ferdinand</artist><year>2003</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Take On Me</SkinName><artist>a-ha</artist><year>1985</year><mode>Solo</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Taste The Feeling</SkinName><artist>Avicii ft. Conrad Sewell</artist><year>2016</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Te Dominar</SkinName><artist>Daya Luz</artist><year>2016</year><mode>Trio</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Teacher</SkinName><artist>Nick Jonas</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Teenage Dream</SkinName><artist>Katy Perry</artist><year>2010</year><mode>Solo</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>That's Not My Name </SkinName><artist>The Ting Tings</artist><year>2008</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>That's The Way (I Like It)</SkinName><artist>KC and the Sunshine Band</artist><year>1975</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>The Choice Is Yours</SkinName><artist>Darlus Dante Dijk</artist><year>2015</year><mode>Solo</mode><game>Exclusive Track</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>The Final Countdown</SkinName><artist>Europe</artist><year>1986</year><mode>Duet</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>The Greatest</SkinName><artist>Sia</artist><year>2016</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>The Master Blaster</SkinName><artist>Inspector Mareau</artist><year>1969</year><mode>Duet</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>The Other Side</SkinName><artist>Jason Derulo</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>The Way</SkinName><artist>Ariana Grande ft. Mac Miller</artist><year>2013</year><mode>Duet</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>The Way I Are (Dance With Somebody)</SkinName><artist>Bebe Rexha ft. Lil Wayne</artist><year>2017</year><mode>Duet</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>The World is Ours</SkinName><artist>David Correy ft. Monobloco</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>There Is Nothing Better In The World</SkinName><artist>Bremenskiye Muzykanty</artist><year>1969</year><mode>Dance Crew</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>These Boots Are Made For Walking</SkinName><artist>Nancy Sinatra
+(The Girly Team)</artist><year>1966</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>This is Halloween</SkinName><artist>Danny Elfman</artist><year>1993</year><mode>Dance Crew</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>This Is How We Do</SkinName><artist>Katy Perry</artist><year>2013</year><mode>Dance Crew</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Thumbs</SkinName><artist>Sabrina Carpenter</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2018
+(Ubisoft Club)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Tico-Tico No Fubá</SkinName><artist>Zequinha de Abreu
+(The Frankie Bostello Orchestra)</artist><year>1917</year><mode>Duet</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>TiK ToK </SkinName><artist>Ke$ha</artist><year>2009</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Till I Find You</SkinName><artist>Austin Mahone</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Time Warp</SkinName><artist>The Rocky Horror Picture Show (Halloween Thrills)</artist><year>1975</year><mode>Dance Crew</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Titanium</SkinName><artist>David Guetta ft. Sia</artist><year>2011</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Tribal Dance</SkinName><artist>2 Unlimited</artist><year>1993</year><mode>Duet</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Tumbum</SkinName><artist>Yeni Alade</artist><year>2016</year><mode>Dance Crew</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Turn Up The Love</SkinName><artist>Far East Movement feat. Cover Drive</artist><year>2012</year><mode>Duet</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Twist and Shake It</SkinName><artist>The Girly Team</artist><year>2008</year><mode>Duet</mode><game>Just Dance 3</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>U Can't Touch This</SkinName><artist>MC Hammer
+(Groove Century)</artist><year>1990</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Under the Sea</SkinName><artist>Samuel E. Wright (Disney’s The Little Mermaid)</artist><year>1989</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Uptown Funk</SkinName><artist>Mark Ronson ft. Bruno Mars</artist><year>2014</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Waka Waka (This Time for Africa)</SkinName><artist>Shakira</artist><year>2010</year><mode>Trio</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Wake Me Up</SkinName><artist>Avicii</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Wake Me Up Before You Go-Go</SkinName><artist>Wham!</artist><year>1985</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Waking Up in Vegas</SkinName><artist>Katy Perry</artist><year>2009</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Walk Like an Egyptian</SkinName><artist>The Bangles</artist><year>1986</year><mode>Solo</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Walk This Way</SkinName><artist>Run DMC and Aerosmith</artist><year>1986</year><mode>Dance Crew</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Want To Want Me</SkinName><artist>Jason Derulo</artist><year>2015</year><mode>Solo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Want U Back</SkinName><artist>Cher Lloyd ft. Astro</artist><year>2012</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Watch Me (Whip/Nae Nae)</SkinName><artist>Silentó</artist><year>2015</year><mode>Dance Crew</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>We No Speak Americano </SkinName><artist>Yolanda Be Cool and DCUP
+(Hit the Electro Beat)</artist><year>2010</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>We R Who We R</SkinName><artist>Ke$ha</artist><year>2010</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>What About Love </SkinName><artist>Austin Mahone</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>What Is Love</SkinName><artist>Haddaway(Ultraclub 90)</artist><year>1993</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>What Lovers Do</SkinName><artist>Maroon 5 ft. SZA</artist><year>2017</year><mode>Duet</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>When The Rain Begins To Fall</SkinName><artist>Jermaine Jackson and Pia Zadora
+(Sky Trucking)</artist><year>1984</year><mode>Duet</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Wherever I Go</SkinName><artist>OneRepublic</artist><year>2016</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Who Let the Dogs Out?</SkinName><artist>Baha Men
+(The Sunlight Shakers)</artist><year>2000</year><mode>Solo</mode><game>Just Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Wild</SkinName><artist>Jessie J ft. Big Sean</artist><year>2013</year><mode>Solo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>William Tell Overture</SkinName><artist>Rossini</artist><year>1829</year><mode>Duet</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Worth It</SkinName><artist>Fifth Harmony ft. Kid Ink</artist><year>2015</year><mode>Solo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>XMas Tree</SkinName><artist>Bollywood Santa</artist><year>2014</year><mode>Duet</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Y.M.C.A.</SkinName><artist>Village People</artist><year>1978</year><mode>Dance Crew</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>You Can't Hurry Love </SkinName><artist>The Supremes</artist><year>1966</year><mode>Duet</mode><game>Just Dance 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>You Make Me Feel...</SkinName><artist>Cobra Starship feat. Sabi</artist><year>2011</year><mode>Solo</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>You Never Can Tell</SkinName><artist>Chuck Berry
+(A. Caveman and The Backseats)</artist><year>1963</year><mode>Duet</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>You Spin Me Round (Like a Record)</SkinName><artist>Dead or Alive</artist><year>1985</year><mode>Solo</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>You're On My Mind</SkinName><artist>Imposs ft. J.Perry</artist><year>2014</year><mode>Dance Crew Mash-Up</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>You're the First, the Last, My Everything </SkinName><artist>Barry White</artist><year>1974</year><mode>Dance Crew</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>YOUTH</SkinName><artist>Troye Sivan</artist><year>2015</year><mode>Solo</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>You’re The One That I Want</SkinName><artist>John Travolta and Olivia Newton-John
+(From the movie Grease)</artist><year>1978</year><mode>Duet</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Can’t Take My Eyes Off You</SkinName><artist>Boys Town Gang</artist><year>1982</year><mode>Wrestler/Alternate</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Good Feeling</SkinName><artist>Flo Rida</artist><year>2012</year><mode>Extreme</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Jailhouse Rock</SkinName><artist>Elvis Presley</artist><year>1957</year><mode>Line Dance</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Tribal Dance</SkinName><artist>2 Unlimited</artist><year>1993</year><mode>With A Katana</mode><game>Just Dance 4</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>#thatPOWER</SkinName><artist>will.i.am ft. Justin Bieber</artist><year>2013</year><mode>Extreme</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>#thatPOWER</SkinName><artist>will.i.am ft. Justin Bieber</artist><year>2013</year><mode>Sing Along/On-Stage</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Blurred Lines</SkinName><artist>Robin Thicke ft. Pharrell Williams</artist><year>2013</year><mode>Extreme</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Gentleman</SkinName><artist>PSY</artist><year>2013</year><mode>Sweat</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Ghostbusters</SkinName><artist>Ray Parker, Jr.</artist><year>1984</year><mode>Sweat</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Gimme! Gimme! Gimme! (A Man After Midnight)</SkinName><artist>ABBA</artist><year>1979</year><mode>Sing Along/On-Stage</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Kissed a Girl</SkinName><artist>Katy Perry</artist><year>2009</year><mode>Sweat</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Kissed a Girl</SkinName><artist>Katy Perry</artist><year>2009</year><mode>Sing Along/On-Stage</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Will Survive</SkinName><artist>Gloria Gaynor</artist><year>1978</year><mode>Sing Along</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>It’s You</SkinName><artist>Duck Sauce</artist><year>2013</year><mode>Sweat</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Just Dance</SkinName><artist>Lady Gaga
+feat. Colby O'Donis</artist><year>2008</year><mode>Sweat</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Just Dance</SkinName><artist>Lady Gaga
+feat. Colby O'Donis</artist><year>2008</year><mode>Sing Along/On-Stage</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Pound The Alarm</SkinName><artist>Nicki Minaj</artist><year>2012</year><mode>Extreme</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Turn Up the Love</SkinName><artist>Far East Movement ft. Cover Drive</artist><year>2012</year><mode>Sumo</mode><game>Just Dance 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Happy</SkinName><artist>Pharrell Williams</artist><year>2013</year><mode>Sing Along</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Let It Go</SkinName><artist>Idina Menzel (Disney's Frozen)</artist><year>2013</year><mode>Sing Along</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Summer</SkinName><artist>Calvin Harris</artist><year>2014</year><mode>Fitness Dance/Sweat</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Walk This Way</SkinName><artist>Run DMC and Aerosmith</artist><year>1986</year><mode>Old School/Extreme</mode><game>Just Dance 2015</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Taste The Feeling</SkinName><artist>Avicii ft. Conrad Sewell</artist><year>2016</year><mode>Alternate</mode><game>Just Dance Now</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Blurred Lines</SkinName><artist>Robin Thicke ft. Pharrell Williams</artist><year>2013</year><mode>Fanmade</mode><game>Just Dance Now</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>HandClap</SkinName><artist>Fitz and the Tantrums</artist><year>2016</year><mode>Fanmade</mode><game>Just Dance Now</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Stadium Flow</SkinName><artist>Imposs</artist><year>2015</year><mode>Fanmade</mode><game>Just Dance Now</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>This Is How We Do</SkinName><artist>Katy Perry</artist><year>2013</year><mode>Fanmade</mode><game>Just Dance Now</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Turn Up the Love</SkinName><artist>Far East Movement ft. Cover Drive</artist><year>2012</year><mode>Fanmade</mode><game>Just Dance Now</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>We No Speak Americano</SkinName><artist>Yolanda Be Cool and DCUP
+(Hit the Electro Beat)</artist><year>2010</year><mode>Fanmade</mode><game>Just Dance Now</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>All About That Bass</SkinName><artist>Meghan Trainor</artist><year>2014</year><mode>Flower and Bee</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Animals</SkinName><artist>Martin Garrix</artist><year>2013</year><mode>Extreme</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Born This Way</SkinName><artist>Lady Gaga</artist><year>2011</year><mode>Nerd</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Circus</SkinName><artist>Britney Spears</artist><year>2008</year><mode>Extreme</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Fancy</SkinName><artist>Iggy Azalea ft. Charli XCX</artist><year>2014</year><mode>Indian</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hey Mama</SkinName><artist>David Guetta ft. Nicki Minaj, Bebe Rexha, and Afrojack</artist><year>2014</year><mode>Geisha</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hit The Road Jack*</SkinName><artist>Ray Charles (Charles Percy)</artist><year>1961</year><mode>Line Dance</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Gotta Feeling</SkinName><artist>The Black Eyed Peas</artist><year>2009</year><mode>School</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Rabiosa</SkinName><artist>Shakira Ft. El Cata</artist><year>2010</year><mode>Latin Fitness/Sweat</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Teacher</SkinName><artist>Nick Jonas</artist><year>2014</year><mode>Car Version</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>This Is How We Do</SkinName><artist>Katy Perry</artist><year>2013</year><mode>Aerobics/Sweat</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Uptown Funk</SkinName><artist>Mark Ronson ft. Bruno Mars</artist><year>2014</year><mode>Tuxedo</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Want To Want Me</SkinName><artist>Jason Derulo</artist><year>2015</year><mode>Couple Version</mode><game>Just Dance 2016</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Cake By The Ocean</SkinName><artist>DNCE</artist><year>2015</year><mode>Earphones</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Cheap Thrills</SkinName><artist>Sia Ft. Sean Paul</artist><year>2016</year><mode>Bollywood</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Chiwawa</SkinName><artist>Wanko Ni Mero Mero</artist><year>2015</year><mode>Remastered By Barbie</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Cola Song</SkinName><artist>INNA ft. J Balvin</artist><year>2014</year><mode>Candy</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Don’t Stop Me Now</SkinName><artist>Queen</artist><year>1979</year><mode>Panda</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>El Tiki</SkinName><artist>Maluma</artist><year>2015</year><mode>Trio</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hips Don’t Lie</SkinName><artist>Shakira ft. Wyclef Jean</artist><year>2005</year><mode>Sumo</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Lean On</SkinName><artist>Major Lazer ft. MØ and DJ Snake</artist><year>2015</year><mode>Scarf</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>RADICAL</SkinName><artist>Dyro and Dannic</artist><year>2014</year><mode>Helmet</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>September*</SkinName><artist>Earth, Wind and Fire
+(Equinox Stars)</artist><year>1978
+(2016)</year><mode>Disco Fitness/Sweat</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Sorry</SkinName><artist>Justin Bieber</artist><year>2015</year><mode>Extreme</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>What Is Love*</SkinName><artist>Haddaway
+(Ultraclub 90)</artist><year>1993</year><mode>Car Version</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Watch Me (Whip/Nae Nae)</SkinName><artist>Silento</artist><year>2015</year><mode>Family Battle</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Wake Me Up Before You Go-Go</SkinName><artist>Wham!</artist><year>1984</year><mode>From The Emoji Movie</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Worth It</SkinName><artist>Fifth Harmony ft. Kid Ink</artist><year>2015</year><mode>Extreme Crew</mode><game>Just Dance 2017</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>24K Magic</SkinName><artist>Bruno Mars</artist><year>2016</year><mode>Extreme Version</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Another One Bites the Dust</SkinName><artist>Queen</artist><year>1980</year><mode>Stunt Version</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Automaton</SkinName><artist>Jamiroquai</artist><year>2017</year><mode>Tomato Version</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Bubble Pop!</SkinName><artist>Hyuna</artist><year>2011</year><mode>Bubble Gum Version</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Chantaje</SkinName><artist>Shakira ft. Maluma</artist><year>2016</year><mode>Subway Version</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Despacito</SkinName><artist>Luis Fonsi and Daddy Yankee</artist><year>2017</year><mode>Extreme Version</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Dharma</SkinName><artist>Headhunterz and KSHMR</artist><year>2016</year><mode>Fight Version</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Footloose</SkinName><artist>Kenny Loggin
+(Top Culture)</artist><year>Solo</year><mode>Kids Mode</mode><game>Just Dance 2018
+(Kids Mode)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>John Wayne</SkinName><artist>Lady Gaga</artist><year>2016</year><mode>Extreme Version</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Kissing Strangers</SkinName><artist>DNCE ft. Nicki Minaj</artist><year>2017</year><mode>Charleston Version</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Side to Side</SkinName><artist>Ariana Grande ft. Nicki Minaj</artist><year>2016</year><mode>Cycling Version</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Tumbum</SkinName><artist>Yemi Alade</artist><year>2016</year><mode>Extreme Version</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Waka Waka (This Time for Africa)</SkinName><artist>Shakira</artist><year>2010</year><mode>Football Version</mode><game>Just Dance 2018</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Waka Waka (This Time for Africa)</SkinName><artist>Shakira</artist><year>2010</year><mode>Kids Mode</mode><game>Just Dance 2018
+(Kids Mode)</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Bang Bang Bang</SkinName><artist>BIGBANG</artist><year>2015</year><mode>Fanmade</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Bum Bum Tam Tam</SkinName><artist>MC Fioti, Future, J Balvin, Stefflon Don, Juan Magan</artist><year>2018</year><mode>Mad Scientist Version</mode><game>Just Dance 2019</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Swish Swish</SkinName><artist>Katy Perry ft. Nicki Minaj</artist><year>2017</year><mode>VIPmade</mode><game>Just Dance Unlimited</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Alphabet Song</SkinName><artist>The Just Dance Kids</artist><year>Traditional</year><mode>Solo</mode><game>Just Dance Kids</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>If You’re Happy and You Know It</SkinName><artist>The Just Dance Kids</artist><year>Traditional</year><mode>Solo</mode><game>Just Dance Kids</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I’ve Been Working on The Railroad</SkinName><artist>The Just Dance Kids</artist><year>Traditional</year><mode>Solo</mode><game>Just Dance Kids</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Wheels on The Bus</SkinName><artist>The Just Dance Kids</artist><year>2010</year><mode>Solo</mode><game>Just Dance Kids</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Accidentally in Love</SkinName><artist>Counting Crows</artist><year>2004</year><mode>Solo</mode><game>Just Dance Kids 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Five Little Monkeys</SkinName><artist>The Just Dance Kids</artist><year>Traditional</year><mode>Solo</mode><game>Just Dance Kids 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>The Lion Sleeps Tonight</SkinName><artist>The Just Dance Kids</artist><year>1961</year><mode>Solo</mode><game>Just Dance Kids 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Jingle Bells</SkinName><artist>The Just Dance Kids</artist><year>1857</year><mode>Solo</mode><game>Just Dance Kids 2</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>A Pirate You Shall Be</SkinName><artist>Tom Zehnder</artist><year>1996</year><mode>Solo</mode><game>Just Dance Kids 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Day-O (The Banana Boat Song)</SkinName><artist>Harry Belafonte
+(The Just Dance Kids)</artist><year>1956
+(2013)</year><mode>Solo</mode><game>Just Dance Kids 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Fraggle Rock</SkinName><artist>The Just Dance Kids</artist><year>1983</year><mode>Solo</mode><game>Just Dance Kids 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Hickory Dickory Dock</SkinName><artist>Tom Zehnder</artist><year>2007</year><mode>Solo</mode><game>Just Dance Kids 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>I Like To Move It</SkinName><artist>The Just Dance Kids</artist><year>1993</year><mode>Solo</mode><game>Just Dance Kids 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Mary Had A Little Lamb</SkinName><artist>Tom Zehnder</artist><year>1830</year><mode>Solo</mode><game>Just Dance Kids 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>We Go Well Together</SkinName><artist>Goldheart</artist><year>2003</year><mode>Solo</mode><game>Just Dance Kids 2014</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Dancing Queen (Dancefloor Version)</SkinName><artist>ABBA</artist><year>1976</year><mode>Solo</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Fernando</SkinName><artist>ABBA</artist><year>1974</year><mode>Duet</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Gimme! Gimme! Gimme! (A Man After Midnight)</SkinName><artist>ABBA</artist><year>1979</year><mode>Solo</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Honey, Honey</SkinName><artist>ABBA</artist><year>1974</year><mode>Dance Crew</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Knowing Me, Knowing You</SkinName><artist>ABBA</artist><year>1977</year><mode>Dance Crew</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Lay All Your Love On Me</SkinName><artist>ABBA</artist><year>1981</year><mode>Solo</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Mamma Mia</SkinName><artist>ABBA</artist><year>1975</year><mode>Dance Crew</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Money, Money, Money</SkinName><artist>ABBA</artist><year>1976</year><mode>Solo</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>SOS</SkinName><artist>ABBA</artist><year>1975</year><mode>Duet</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Super Trouper</SkinName><artist>ABBA</artist><year>1980</year><mode>Solo</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Take A Chance On Me</SkinName><artist>ABBA</artist><year>1978</year><mode>Duet</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>The Winner Takes It All</SkinName><artist>ABBA</artist><year>1980</year><mode>Solo</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Voulez-Vous</SkinName><artist>ABBA</artist><year>1979</year><mode>Solo</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+<skin><SkinName>Waterloo</SkinName><artist>ABBA</artist><year>1974</year><mode>Dance Crew</mode><game>ABBA: You Can Dance</game><img>8bitretake_cover_generic.jpg</img></skin>
+
+  </Skins>
+</Case>
