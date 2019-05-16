@@ -10,44 +10,30 @@ using UnityEngine.UI;
 public class SongIconController : MonoBehaviour
 {
     public List<SongInfo> Chocolist = new List<SongInfo>();
-
     public GameObject inputfieldText;
-
     private GameObject objectPoolerParent;
-
     private ChocoManager chocoManager;
-
     public GameObject SongIcon;
-
     public GameObject mother;
-
     public GameObject Gameborder;
-
     public GameObject currentSongScript;
-
     private bool Gamestate;
-
     private bool motherMove;
-
     private float posx;
-
-    public Vector3 motherHolderstartPosition = new Vector3(0f, 300f, 0f);
-
-    public List<GameObject> spawnedPoolItems = new List<GameObject>();
-
-    private string[] textSplit = new string[1]
-    {
-        "all"
-    };
-
-    public GameObject endGameObject;
-
     private int foundSongIcon;
-
     private float posy = 300f;
-
     private int Spawncounter;
+    public Vector3 motherHolderstartPosition = new Vector3(0f, 300f, 0f);
+    public List<GameObject> spawnedPoolItems = new List<GameObject>();
+    public List<GameObject> list = new List<GameObject>();
+    public List<SongInfo> list2 = new List<SongInfo>();
+    private string[] textSplit = new string[]    {        "all"    };
 
+    void Start()
+    {
+        ChocoManager.FillSonglist(Chocolist);
+        Gameborder.SetActive(value: false);
+    }
     private IEnumerator Waitingseconds(int sec)
     {
         yield return new WaitForSeconds(sec);
@@ -57,64 +43,64 @@ public class SongIconController : MonoBehaviour
         }
     }
 
-    void Start()
-    {
-        
-        Gameborder.SetActive(value: false);
-    }
-
-    private void EndGame()
-    {
-        motherMove = false;
-        foreach (GameObject spawnedPoolItem in spawnedPoolItems)
-        {
-            if (spawnedPoolItem.name != currentSongScript.GetComponent<ActiveSong>().CurrentSong)
-            {
-                UnityEngine.Object.Destroy(spawnedPoolItem);
-            }
-            else if (foundSongIcon == 0)
-            {
-                foundSongIcon = 1;
-                GameObject gameObject = UnityEngine.Object.Instantiate(spawnedPoolItem, new Vector3(0f, 0f, 0f), Quaternion.identity);
-                gameObject.gameObject.transform.localScale += new Vector3(0.4f, 0.4f, 0.4f);
-                gameObject.transform.SetParent(Gameborder.gameObject.transform);
-                gameObject.transform.position = new Vector3(Gameborder.gameObject.transform.position.x, Gameborder.gameObject.transform.position.y - 200f, Gameborder.gameObject.transform.position.z);
-                UnityEngine.Object.Destroy(spawnedPoolItem);
-            }
-            else
-            {
-                UnityEngine.Object.Destroy(spawnedPoolItem);
-            }
-        }
-        StartCoroutine(Waitingseconds(5));
-        GetComponentInChildren<Text>().text = "OK";
-    }
-
     public void ButtonPress()
     {
         if (!Gamestate)
         {
             GetComponentInChildren<Text>().text = "Stop";
             Gameborder.SetActive(value: true);
-            ChocoManager.FillSonglist(Chocolist);
             Gamestate = true;
             SpawnPooledItems();
-            StartCoroutine(Waitingseconds(25));
+            StartCoroutine(Waitingseconds(20));
         }
-        else if (GetComponentInChildren<Text>().text == "OK")
+        else if (GetComponentInChildren<Text>().text == "OK" && Gamestate)
         {
+            // RESET 
             Gameborder.SetActive(value: false);
             Gamestate = false;
             GetComponentInChildren<Text>().text = "Start";
-            inputfieldText.GetComponent<Text>().text = inputfieldText.GetComponent<Text>().text.Replace(currentSongScript.GetComponent<ActiveSong>().CurrentSong, "");
-            Chocolist.Clear();
+            inputfieldText.GetComponent<Text>().text = inputfieldText.GetComponent<Text>().text.Replace(gameObject.name, "");
+            //Chocolist.Clear();
             posx = 0f;
-            UnityEngine.Object.Destroy(endGameObject);
-            SceneManager.LoadScene("ChocoRoulette", new LoadSceneParameters(LoadSceneMode.Additive));
+            list2.Clear();
+            currentSongScript.GetComponent<ActiveSong>().CurrentSong = "";
+            spawnedPoolItems.Clear();
+            foundSongIcon = 0;
+            // UnityEngine.Object.Destroy(GameObject.FindGameObjectWithTag("LastPickedSong"));
+            foreach (GameObject objectx in list)
+            {
+                GameObject.Destroy(objectx.gameObject);
+            }
+            list.Clear();
+            //SceneManager.LoadScene("ChocoRoulette", new LoadSceneParameters(LoadSceneMode.Additive));
         }
         else
         {
-            EndGame();
+            motherMove = false;
+            foreach (GameObject spawnedPoolItem in spawnedPoolItems)
+            {
+                if (spawnedPoolItem.name != currentSongScript.GetComponent<ActiveSong>().CurrentSong)
+                {
+                    UnityEngine.Object.Destroy(spawnedPoolItem);
+                }
+                else if (foundSongIcon == 0)
+                {
+                    foundSongIcon = 1;
+                    GameObject gameObject = new GameObject();
+                    gameObject = UnityEngine.Object.Instantiate(spawnedPoolItem, new Vector3(0f, 0f, 0f), Quaternion.identity);
+                    gameObject.gameObject.transform.localScale += new Vector3(0.4f, 0.4f, 0.4f);
+                    gameObject.transform.SetParent(mother.gameObject.transform);
+                    gameObject.transform.position = new Vector3(Gameborder.gameObject.transform.position.x, Gameborder.gameObject.transform.position.y - 200f, Gameborder.gameObject.transform.position.z);
+                    list.Add(gameObject);
+                    UnityEngine.Object.Destroy(spawnedPoolItem);
+                }
+                else
+                {
+                    UnityEngine.Object.Destroy(spawnedPoolItem);
+                }
+            }
+           // StartCoroutine(Waitingseconds(5));
+            GetComponentInChildren<Text>().text = "OK";
         }
     }
 
@@ -136,7 +122,7 @@ public class SongIconController : MonoBehaviour
     {
         motherMove = true;
         Rigidbody rb = moveObject.GetComponent<Rigidbody>();
-        rb.AddForce(Quaternion.Euler(0f, 0f, 0f) * Vector3.left * 150f);
+        rb.AddForce(Quaternion.Euler(0f, 0f, 0f) * Vector3.left * 50f);
         while (motherMove)
         {
             rb.AddForce(Quaternion.Euler(0f, 0f, 0f) * Vector3.left * 5f);
@@ -166,7 +152,7 @@ public class SongIconController : MonoBehaviour
 
     private void SpawnPooledItems()
     {
-        List<GameObject> list = new List<GameObject>();
+        
         string text = inputfieldText.GetComponent<Text>().text;
         if (text == null || text == "")
         {
@@ -181,6 +167,7 @@ public class SongIconController : MonoBehaviour
         {
             textSplit[i] = textSplit[i].ToLowerInvariant();
         }
+        
         List<SongInfo> list2 = Shuffle(Chocolist);
         objectPoolerParent = new GameObject("Mutter hat songs");
         objectPoolerParent.transform.SetParent(mother.gameObject.transform);
@@ -193,6 +180,10 @@ public class SongIconController : MonoBehaviour
         string[] array = textSplit;
         foreach (string text2 in array)
         {
+            if (text2== null) { Debug.Log("_NULL"); } else { 
+
+
+
             if (text2 == "all" || text2 == "ALL")
             {
                 Spawncounter = 0;
@@ -278,7 +269,8 @@ public class SongIconController : MonoBehaviour
                 posx += 250f;
             }
         }
-        if (spawnedPoolItems.Count < 40)
+        }
+        if (spawnedPoolItems.Count < 40 && spawnedPoolItems.Count != 0)
         {
             SpawnPooledItems();
         }

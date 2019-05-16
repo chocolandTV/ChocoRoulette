@@ -296,7 +296,7 @@ public class ChocoManager : MonoBehaviour
         Chocolist.Add(new SongInfo("Side to Side", "Ariana Grande ft. Nicki Minaj", "2016", "Solo", "Just Dance 2018", "Sideto_cover_generic"));
         Chocolist.Add(new SongInfo("Single Ladies (Put a Ring on It)", "Beyoncé", "2008", "Solo", "Just Dance 2017", "Singleladies_cover_generic"));
         Chocolist.Add(new SongInfo("Slumber Party", "Britney Spears ft. Tinashe", "2016", "Dance Crew", "Just Dance 2018", "Slumberparty_cover_generic"));
-        Chocolist.Add(new SongInfo("Smile (Улыбайся)", "IOWA", "2013", "Solo", "Just Dance 2016", "Ulibayssia"));
+        Chocolist.Add(new SongInfo("Smile", "IOWA", "2013", "Solo", "Just Dance 2016", "Ulibayssia"));
         Chocolist.Add(new SongInfo("So Glamorous", "The Girly Team", "2012", "Solo", "Just Dance 4", "Glamorouscusto"));
         Chocolist.Add(new SongInfo("Somethin’ Stupid", "Robbie Williams and Nicole Kidman", "2001", "Duet", "Just Dance 3", "Somethinstupid"));
         Chocolist.Add(new SongInfo("Sorry", "Justin Bieber", "2015", "Solo", "Just Dance 2017", "Sorry"));
@@ -483,5 +483,8 @@ public class ChocoManager : MonoBehaviour
         Chocolist.Add(new SongInfo("Sweet Sensation", "Flo Rida", "2018", "Quartet", "Just Dance 2019", "Sweetsensation_cover_generic"));
         Chocolist.Add(new SongInfo("Milosc W Zakopanem", "Slawomir", "2017", "Solo", "Just Dance 2019", "Miloscw_cover_generic"));
         Chocolist.Add(new SongInfo("Not Your Ordinary", "Stella Mwangi", "2017", "Quartet", "Just Dance 2019", "Notyourordinary_cover_generic"));
+        //added 16.05.19
+        Chocolist.Add(new SongInfo("DDU-DU DDU-DU", "BLACKPINK", "2018", "Dance Crew", "Just Dance 2019", "Ddudu_jd2019_gameplay"));
+        Chocolist.Add(new SongInfo("A Little Party Never Killed Nobody (All We Got)", "Fergie ft. Q-Tip & GoonRock", "2013", "Solo", "Just Dance 2019", "Alittlepartyneverkillednobody_jd2019_gameplay"));
     }
 }
