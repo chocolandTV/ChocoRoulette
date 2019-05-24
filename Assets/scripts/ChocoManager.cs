@@ -486,5 +486,10 @@ public class ChocoManager : MonoBehaviour
         //added 16.05.19
         Chocolist.Add(new SongInfo("DDU-DU DDU-DU", "BLACKPINK", "2018", "Dance Crew", "Just Dance 2019", "Ddudu_jd2019_gameplay"));
         Chocolist.Add(new SongInfo("A Little Party Never Killed Nobody (All We Got)", "Fergie ft. Q-Tip & GoonRock", "2013", "Solo", "Just Dance 2019", "Alittlepartyneverkillednobody_jd2019_gameplay"));
+        //added 24.05.19
+        Chocolist.Add(new SongInfo("Un Poco Loco", "Anthony Gonzalez and Gael García Bernal", "2017", "Solo", "Just Dance 2019", "Pocoloco_cover_generic"));
+        Chocolist.Add(new SongInfo("TOY", "Netta", "2018", "Solo", "Just Dance 2019", "Toy_cover_generic"));
+
+
     }
 }
