@@ -4,7 +4,6 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class SongIconController : MonoBehaviour
@@ -117,15 +116,25 @@ public class SongIconController : MonoBehaviour
         }
         return aList;
     }
-
+    public IEnumerator WaitForSecondsInFixedUpdate(float time)
+    {
+        float loops = (time / 0.02f);
+        for (int vlr = 0; vlr < loops; vlr++)
+        {
+            yield return new WaitForFixedUpdate();
+        }
+    }
     public IEnumerator AnimatePosition(GameObject moveObject)
     {
         motherMove = true;
         Rigidbody rb = moveObject.GetComponent<Rigidbody>();
-        rb.AddForce(Quaternion.Euler(0f, 0f, 0f) * Vector3.left * 50f);
+        rb.AddForce(Quaternion.Euler(0f, 0f, 0f) * Vector3.left * 5f);
+        
         while (motherMove)
         {
-            rb.AddForce(Quaternion.Euler(0f, 0f, 0f) * Vector3.left * 5f);
+            
+                rb.AddForce(Quaternion.Euler(0f, 0f, 0f) * Vector3.left * Time.deltaTime);
+            
             if ((float)(-100 * spawnedPoolItems.Count) > moveObject.transform.position.x)
             {
                 moveObject.transform.position = new Vector3(150 * spawnedPoolItems.Count, moveObject.transform.position.y, 0f);

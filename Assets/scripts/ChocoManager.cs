@@ -489,7 +489,10 @@ public class ChocoManager : MonoBehaviour
         //added 24.05.19
         Chocolist.Add(new SongInfo("Un Poco Loco", "Anthony Gonzalez and Gael García Bernal", "2017", "Solo", "Just Dance 2019", "Pocoloco_cover_generic"));
         Chocolist.Add(new SongInfo("TOY", "Netta", "2018", "Solo", "Just Dance 2019", "Toy_cover_generic"));
-
-
+        //added 07.06.2019
+        Chocolist.Add(new SongInfo("Tales of the Desert", "Persian Nights", "2019", "Solo", "Just Dance 2019", "TheExplorerKids_BC"));
+        Chocolist.Add(new SongInfo("Mad Love", "Sean Paul and David Guetta ft. Becky G", "2018", "Duet", "Just Dance 2019", "MadLove_BC"));
+        Chocolist.Add(new SongInfo("Rhythm of the Night", "Corona, Ultraclub 90", "1993", "Solo", "Just Dance 2019", "Rhythm_BC"));
+        Chocolist.Add(new SongInfo("Mi Mi Mi", "Serebro", "2013", "Duet", "Just Dance 2019", "Mimimi_cover_1024"));
     }
 }
