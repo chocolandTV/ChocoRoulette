@@ -494,5 +494,8 @@ public class ChocoManager : MonoBehaviour
         Chocolist.Add(new SongInfo("Mad Love", "Sean Paul and David Guetta ft. Becky G", "2018", "Duet", "Just Dance 2019", "MadLove_BC"));
         Chocolist.Add(new SongInfo("Rhythm of the Night", "Corona, Ultraclub 90", "1993", "Solo", "Just Dance 2019", "Rhythm_BC"));
         Chocolist.Add(new SongInfo("Mi Mi Mi", "Serebro", "2013", "Duet", "Just Dance 2019", "Mimimi_cover_1024"));
+        //added 15.06.2019
+        Chocolist.Add(new SongInfo("OMG", "Arash featuring Snoop Dogg", "2016", "Trio", "Just Dance 2019", "OMG_BC"));
+        Chocolist.Add(new SongInfo("New Reality", "Gigi Rowe", "2018", "Solo", "Just Dance 2019", "Newreality_cover_generic"));
     }
 }
