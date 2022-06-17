@@ -22,6 +22,7 @@ public class SongIconController : MonoBehaviour
     private int foundSongIcon;
     private float posy = 300f;
     private int Spawncounter;
+    
     public Vector3 motherHolderstartPosition = new Vector3(0f, 300f, 0f);
     public List<GameObject> spawnedPoolItems = new List<GameObject>();
     public List<GameObject> list = new List<GameObject>();
@@ -35,11 +36,17 @@ public class SongIconController : MonoBehaviour
     }
     private IEnumerator Waitingseconds(int sec)
     {
+         //Print the time of when the function is first called.
+        Debug.Log("Started Coroutine at timestamp : " + Time.time);
+        //yield on a new YieldInstruction that waits for 5 seconds.
         yield return new WaitForSeconds(sec);
-        if (sec == 25)
-        {
+
+        //After we have waited 5 seconds print the time again.
+        Debug.Log("Finished Coroutine at timestamp : " + Time.time);
+        
+            
             ButtonPress();
-        }
+       
     }
 
     public void ButtonPress()
@@ -49,8 +56,10 @@ public class SongIconController : MonoBehaviour
             GetComponentInChildren<Text>().text = "Stop";
             Gameborder.SetActive(value: true);
             Gamestate = true;
+            StartCoroutine(Waitingseconds(30));
             SpawnPooledItems();
-            StartCoroutine(Waitingseconds(20));
+            
+            
         }
         else if (GetComponentInChildren<Text>().text == "OK" && Gamestate)
         {
@@ -98,7 +107,7 @@ public class SongIconController : MonoBehaviour
                     UnityEngine.Object.Destroy(spawnedPoolItem);
                 }
             }
-           // StartCoroutine(Waitingseconds(5));
+            //
             GetComponentInChildren<Text>().text = "OK";
         }
     }
@@ -133,7 +142,7 @@ public class SongIconController : MonoBehaviour
         while (motherMove)
         {
             
-                rb.AddForce(Quaternion.Euler(0f, 0f, 0f) * Vector3.left * Time.deltaTime);
+                rb.AddForce(Quaternion.Euler(0f, 0f, 0f) * Vector3.left  * 15f *Time.deltaTime);
             
             if ((float)(-100 * spawnedPoolItems.Count) > moveObject.transform.position.x)
             {
@@ -196,7 +205,7 @@ public class SongIconController : MonoBehaviour
             if (text2 == "all" || text2 == "ALL")
             {
                 Spawncounter = 0;
-                for (int k = 0; k < list2.Count; k++)
+                for (int k = 0; k < 30; k++)
                 {
                     if (Spawnroutiner(50))
                     {
@@ -224,7 +233,7 @@ public class SongIconController : MonoBehaviour
                 Spawncounter = 0;
                 for (int l = 0; l < list2.Count; l++)
                 {
-                    if (text2 == list2[l].skinName.ToLowerInvariant() || text2 == list2[l].artist.ToLowerInvariant() || text2 == list2[l].game.ToLowerInvariant() || text2 == list2[l].year.ToLowerInvariant() || text2 == list2[l].mode.ToLowerInvariant())
+                    if (text2 == list2[l].skinName.ToLowerInvariant() || (text2 == "alternate" && list2[l].skinName.ToLowerInvariant().Contains(text2)) || text2 == list2[l].artist.ToLowerInvariant() || text2 == list2[l].game.ToLowerInvariant() || text2 == list2[l].year.ToLowerInvariant() || text2 == list2[l].mode.ToLowerInvariant())
                     {
                         if (Spawnroutiner(1))
                         {
@@ -288,5 +297,6 @@ public class SongIconController : MonoBehaviour
             StartCoroutine(AnimatePosition(item));
         }
         objectPoolerParent.name = "Mutter hat  " + spawnedPoolItems.Count + " songs";
+        Debug.Log  ("Mutter hat  " + spawnedPoolItems.Count + " songs");
     }
 }

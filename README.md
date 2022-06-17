@@ -1,13 +1,14 @@
 Version 1.1 -new Songs :Sweet Sensation, Milosc W Zakopanem, Not Your Ordinary Improve Song Spawning and Create an Auto Stop after 30 seconds
 Version 1.2 -fix roulette position after a while, ad speed over time and supports now 32bit Machines
+Version 1.3 Added 190 Songs + fixed autostop and improved Filters (multiple filter by lines and  Alternate works now as Filter and Just Dance 2020 eg.) 
+
 
 Hello dear user, lets have some fun with my "Choco Song Roulette", 
-i will update it every week, to implement new songs and some Features like (Particle System, Counting Plays and Online Higscore)
 
 How to use: 
 run ChocoRoulette.exe
 Press Start to Shuffle All songs.
-Press Stop to get a random song.
+Press Stop  or wait 15 seconds to get a random song.
 
 Filters:
 you may change the Filter in the Textbox.
