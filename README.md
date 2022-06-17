@@ -1,6 +1,6 @@
-Version 1.1 -new Songs :Sweet Sensation, Milosc W Zakopanem, Not Your Ordinary Improve Song Spawning and Create an Auto Stop after 30 seconds
-Version 1.2 -fix roulette position after a while, ad speed over time and supports now 32bit Machines
 Version 1.3 Added 190 Songs + fixed autostop and improved Filters (multiple filter by lines and  Alternate works now as Filter and Just Dance 2020 eg.) 
+Version 1.2 -fix roulette position after a while, ad speed over time and supports now 32bit Machines
+Version 1.1 -new Songs :Sweet Sensation, Milosc W Zakopanem, Not Your Ordinary Improve Song Spawning and Create an Auto Stop after 30 seconds
 
 
 Hello dear user, lets have some fun with my "Choco Song Roulette", 
